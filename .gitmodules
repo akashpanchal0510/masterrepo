@@ -1,3 +1,6 @@
 [submodule "subrepo"]
 	path = subrepo
 	url = https://github.com/akashpanchal0510/subrepo.git
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/akashpanchal0510/submodule.git
